@@ -1,0 +1,12 @@
+/* =============================================
+   WebMebelSaya — Product Placeholder Gradients
+   ============================================= */
+
+.ph-sofa1 { background: linear-gradient(135deg, #f0e6d6 0%, #d4b896 100%); }
+.ph-sofa2 { background: linear-gradient(135deg, #e8ddd0 0%, #c8a882 100%); }
+.ph-chair1 { background: linear-gradient(135deg, #ede3d6 0%, #c4a07a 100%); }
+.ph-chair2 { background: linear-gradient(135deg, #f5ede0 0%, #d6b08a 100%); }
+.ph-meja1 { background: linear-gradient(135deg, #e4dcd2 0%, #b89a78 100%); }
+.ph-meja2 { background: linear-gradient(135deg, #eee6da 0%, #c8a87e 100%); }
+.ph-lemari1 { background: linear-gradient(135deg, #ede7de 0%, #c0a280 100%); }
+.ph-rak1 { background: linear-gradient(135deg, #f0ebe2 0%, #caa87e 100%); }
